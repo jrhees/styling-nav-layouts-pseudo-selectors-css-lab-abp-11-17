@@ -96,7 +96,7 @@ footer{
   font-size: 20px;
 }
 
-.div .btn a:hover {
+div.questions .btn a:hover {
   background-color: #0069d9;
   border-color: #0069d9;
 }
