@@ -90,4 +90,8 @@ footer{
   border-radius: 5px;
   color: #FFF;
   background-color: #000bff;
+  border-color: #000bff;
+  text-decoration: none;
+  padding: 18px;
+  font-size: 20px;
 }
