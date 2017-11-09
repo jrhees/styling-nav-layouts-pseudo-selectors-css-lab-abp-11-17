@@ -85,3 +85,7 @@ footer{
 .questions p {
   margin-top: 30px;
 }
+
+.btn a {
+  border-radius: 5px;
+}
